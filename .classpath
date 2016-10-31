@@ -1,0 +1,62 @@
+<classpath>
+  <classpathentry kind="src" path="src/main/scala"/>
+  <classpathentry kind="src" path="src/test/scala"/>
+  <classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
+  <classpathentry sourcepath="/home/mak/.ivy2/cache/org.specs2/specs2-core_2.11/srcs/specs2-core_2.11-3.8.5-sources.jar" kind="lib" path="/home/mak/.ivy2/cache/org.specs2/specs2-core_2.11/jars/specs2-core_2.11-3.8.5.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/home/mak/.ivy2/cache/org.specs2/specs2-core_2.11/docs/specs2-core_2.11-3.8.5-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/home/mak/.ivy2/cache/org.specs2/specs2-matcher_2.11/srcs/specs2-matcher_2.11-3.8.5-sources.jar" kind="lib" path="/home/mak/.ivy2/cache/org.specs2/specs2-matcher_2.11/jars/specs2-matcher_2.11-3.8.5.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/home/mak/.ivy2/cache/org.specs2/specs2-matcher_2.11/docs/specs2-matcher_2.11-3.8.5-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/home/mak/.ivy2/cache/org.specs2/specs2-common_2.11/srcs/specs2-common_2.11-3.8.5-sources.jar" kind="lib" path="/home/mak/.ivy2/cache/org.specs2/specs2-common_2.11/jars/specs2-common_2.11-3.8.5.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/home/mak/.ivy2/cache/org.specs2/specs2-common_2.11/docs/specs2-common_2.11-3.8.5-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/home/mak/.ivy2/cache/org.specs2/specs2-codata_2.11/srcs/specs2-codata_2.11-3.8.5-sources.jar" kind="lib" path="/home/mak/.ivy2/cache/org.specs2/specs2-codata_2.11/jars/specs2-codata_2.11-3.8.5.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/home/mak/.ivy2/cache/org.specs2/specs2-codata_2.11/docs/specs2-codata_2.11-3.8.5-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/home/mak/.ivy2/cache/org.scalaz/scalaz-core_2.11/srcs/scalaz-core_2.11-7.2.6-sources.jar" kind="lib" path="/home/mak/.ivy2/cache/org.scalaz/scalaz-core_2.11/bundles/scalaz-core_2.11-7.2.6.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/home/mak/.ivy2/cache/org.scalaz/scalaz-core_2.11/docs/scalaz-core_2.11-7.2.6-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/home/mak/.ivy2/cache/org.scalaz/scalaz-effect_2.11/srcs/scalaz-effect_2.11-7.2.6-sources.jar" kind="lib" path="/home/mak/.ivy2/cache/org.scalaz/scalaz-effect_2.11/bundles/scalaz-effect_2.11-7.2.6.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/home/mak/.ivy2/cache/org.scalaz/scalaz-effect_2.11/docs/scalaz-effect_2.11-7.2.6-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/home/mak/.ivy2/cache/org.scalaz/scalaz-concurrent_2.11/srcs/scalaz-concurrent_2.11-7.2.6-sources.jar" kind="lib" path="/home/mak/.ivy2/cache/org.scalaz/scalaz-concurrent_2.11/bundles/scalaz-concurrent_2.11-7.2.6.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/home/mak/.ivy2/cache/org.scalaz/scalaz-concurrent_2.11/docs/scalaz-concurrent_2.11-7.2.6-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/home/mak/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/srcs/scala-parser-combinators_2.11-1.0.4-sources.jar" kind="lib" path="/home/mak/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.4.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/home/mak/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/docs/scala-parser-combinators_2.11-1.0.4-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/home/mak/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/srcs/scala-xml_2.11-1.0.5-sources.jar" kind="lib" path="/home/mak/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.5.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/home/mak/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/docs/scala-xml_2.11-1.0.5-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/home/mak/.ivy2/cache/org.scalatest/scalatest_2.11/srcs/scalatest_2.11-3.0.0-sources.jar" kind="lib" path="/home/mak/.ivy2/cache/org.scalatest/scalatest_2.11/bundles/scalatest_2.11-3.0.0.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/home/mak/.ivy2/cache/org.scalatest/scalatest_2.11/docs/scalatest_2.11-3.0.0-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/home/mak/.ivy2/cache/org.scalactic/scalactic_2.11/srcs/scalactic_2.11-3.0.0-sources.jar" kind="lib" path="/home/mak/.ivy2/cache/org.scalactic/scalactic_2.11/bundles/scalactic_2.11-3.0.0.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/home/mak/.ivy2/cache/org.scalactic/scalactic_2.11/docs/scalactic_2.11-3.0.0-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="output" path="bin"/>
+</classpath>
