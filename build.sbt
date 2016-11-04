@@ -4,19 +4,22 @@ version := "0.1-SNAPSHOT"
 
 scalaVersion := "2.11.8"
 
+parallelExecution in Test := false
+
 libraryDependencies ++= {
   	Seq(
   	    "org.specs2" %% "specs2-core" % "3.8.5" % "test",
-  	    "org.scalatest" %% "scalatest" % "3.0.0" % "test"
+  	    "org.scalatest" %% "scalatest" % "3.0.0" % "test",
+  	    "org.jliszka" %% "probability-monad" % "1.0.1",
+  	    "org.apache.spark" % "spark-core_2.11" % "2.0.0",
+  		"org.apache.spark" % "spark-mllib_2.11" % "2.0.0"
   	)
 }
 
-mainClass := Some("com.mak.weather.station.Simulator")
-
 resolvers ++= Seq(
-			"snapshots"     			
+			"Sonatype snapshots"     			
 						at "http://oss.sonatype.org/content/repositories/snapshots",
-            "releases"  
+            "Sonatype Releases"   
               			at "http://oss.sonatype.org/content/repositories/releases",
 			"Artima Maven Repository" 	
 						at "http://repo.artima.com/releases"

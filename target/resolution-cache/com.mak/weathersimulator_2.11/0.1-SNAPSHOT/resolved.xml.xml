@@ -4,7 +4,7 @@
 		module="weathersimulator_2.11"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20161031121010"
+		publication="20161104145732"
 	>
 		<description>
 		WeatherSimulator
@@ -36,5 +36,8 @@
 		<dependency org="org.scala-lang" name="scala-library" rev="2.11.8" conf="scala-tool->default,optional(default);compile->default(compile)"/>
 		<dependency org="org.specs2" name="specs2-core_2.11" rev="3.8.5" conf="test->default(compile)"/>
 		<dependency org="org.scalatest" name="scalatest_2.11" rev="3.0.0" conf="test->default(compile)"/>
+		<dependency org="org.jliszka" name="probability-monad_2.11" rev="1.0.1" conf="compile->default(compile)"/>
+		<dependency org="org.apache.spark" name="spark-core_2.11" rev="2.0.0" conf="compile->default(compile)"/>
+		<dependency org="org.apache.spark" name="spark-mllib_2.11" rev="2.0.0" conf="compile->default(compile)"/>
 	</dependencies>
 </ivy-module>

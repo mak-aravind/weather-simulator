@@ -1,0 +1,9 @@
+#Successful Tests
+#Fri Nov 04 15:04:24 IST 2016
+com.mak.weather.station.PositionTest=1478252063997
+com.mak.weather.station.SimulatorTest=1478252062287
+com.mak.weather.station.LocalTimeTest=1478252060039
+com.mak.weather.station.MySuites=1478252063992
+com.mak.weather.station.MeasurementTest=1478252059985
+com.funweather.WeatherSimulatorSpec=1478245430118
+ExampleSuite=1478252062306
