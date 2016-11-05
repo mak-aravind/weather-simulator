@@ -5,7 +5,7 @@ A reference implementation in weather domain, to demonstrate the learning and ap
 #### The approach
 
  * For a set of pre determined locations using [markov-chain](https://en.wikipedia.org/wiki/Examples_of_Markov_chains#A_simple_weather_model) model generate training data related to the weather: Condition, Temperature, Pressure, Humidity.
- * Format the training data into *LIBSVM* and feed to [Spark mlib's Random Forest](https://spark.apache.org/docs/latest/mllib-ensembles.html#random-forests)
+ * Format the training data into *LIBSVM* and feed to [Spark MLlib's Random Forest](https://spark.apache.org/docs/latest/mllib-ensembles.html#random-forests)
  * Build RandomForest model with the training data for Temperature, Pressure, Humidity and Condition
  * For a new feed: time and location, with the aid of generated model predict the Condition, Temperature, Pressure and Humidity
 

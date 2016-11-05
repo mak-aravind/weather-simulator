@@ -1,6 +1,6 @@
 organization := "com.mak"
 name := "WeatherSimulator"
-version := "0.1-SNAPSHOT"
+version := "0.1-SNAPSHOT-R2"
 
 scalaVersion := "2.11.8"
 
@@ -12,17 +12,17 @@ libraryDependencies ++= {
   	    "org.scalatest" %% "scalatest" % "3.0.0" % "test",
   	    "org.jliszka" %% "probability-monad" % "1.0.1",
   	    "org.apache.spark" % "spark-core_2.11" % "2.0.0",
-  		"org.apache.spark" % "spark-mllib_2.11" % "2.0.0"
+  		  "org.apache.spark" % "spark-mllib_2.11" % "2.0.0"
   	)
 }
 
 resolvers ++= Seq(
-			"Sonatype snapshots"     			
+			"Sonatype snapshots"
 						at "http://oss.sonatype.org/content/repositories/snapshots",
-            "Sonatype Releases"   
+            "Sonatype Releases"
               			at "http://oss.sonatype.org/content/repositories/releases",
-			"Artima Maven Repository" 	
+			"Artima Maven Repository"
 						at "http://repo.artima.com/releases"
 )
- 
+
 scalacOptions ++= Seq("-unchecked", "-deprecation")
