@@ -1,6 +1,0 @@
-[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
-[0m[[0mdebug[0m] [0m	(/media/mak/MyDisc/mak/Phase-II/TCS-Interview/mak-weather-forcast/src/main/resources/trainingData,/media/mak/MyDisc/mak/Phase-II/TCS-Interview/mak-weather-forcast/target/scala-2.11/classes/trainingData)[0m
-[0m[[0mdebug[0m] [0m	(/media/mak/MyDisc/mak/Phase-II/TCS-Interview/mak-weather-forcast/src/main/resources/trainingData/Humidity.txt,/media/mak/MyDisc/mak/Phase-II/TCS-Interview/mak-weather-forcast/target/scala-2.11/classes/trainingData/Humidity.txt)[0m
-[0m[[0mdebug[0m] [0m	(/media/mak/MyDisc/mak/Phase-II/TCS-Interview/mak-weather-forcast/src/main/resources/trainingData/Temperature.txt,/media/mak/MyDisc/mak/Phase-II/TCS-Interview/mak-weather-forcast/target/scala-2.11/classes/trainingData/Temperature.txt)[0m
-[0m[[0mdebug[0m] [0m	(/media/mak/MyDisc/mak/Phase-II/TCS-Interview/mak-weather-forcast/src/main/resources/trainingData/Condition.txt,/media/mak/MyDisc/mak/Phase-II/TCS-Interview/mak-weather-forcast/target/scala-2.11/classes/trainingData/Condition.txt)[0m
-[0m[[0mdebug[0m] [0m	(/media/mak/MyDisc/mak/Phase-II/TCS-Interview/mak-weather-forcast/src/main/resources/trainingData/Pressure.txt,/media/mak/MyDisc/mak/Phase-II/TCS-Interview/mak-weather-forcast/target/scala-2.11/classes/trainingData/Pressure.txt)[0m

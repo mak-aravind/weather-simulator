@@ -1,4 +1,0 @@
-[0m[[0minfo[0m] [0m[32mSimulatorTest:[0m[0m
-[0m[[0minfo[0m] [0m[32mPredictor[0m[0m
-[0m[[0minfo[0m] [0m[32m- should generate a sample with a new time&location pair[0m[0m
-[0m[[0minfo[0m] [0m[32m- should build and return one classification model, three regression models[0m[0m

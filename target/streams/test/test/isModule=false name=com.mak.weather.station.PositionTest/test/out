@@ -1,4 +1,0 @@
-[0m[[0minfo[0m] [0m[32mPositionTest:[0m[0m
-[0m[[0minfo[0m] [0m[32mPosition[0m[0m
-[0m[[0minfo[0m] [0m[32m- should allow construction if range is valid[0m[0m
-[0m[[0minfo[0m] [0m[32m- should deny construction if range is invalid[0m[0m
