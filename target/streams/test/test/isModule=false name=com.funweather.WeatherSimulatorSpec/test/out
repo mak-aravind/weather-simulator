@@ -1,0 +1,6 @@
+[0m[[0minfo[0m] [0m[32mWeatherSimulatorSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mTest Breeze[0m[0m
+[0m[[0minfo[0m] [0m[32m  Draw Poisson[0m[0m
+[0m[[0minfo[0m] [0m[32m  - should return a random integer[0m[0m
+[0m[[0minfo[0m] [0m[32m  Draw Uniform[0m[0m
+[0m[[0minfo[0m] [0m[32m  - should return random doubles[0m[0m
