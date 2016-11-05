@@ -36,5 +36,5 @@ Bangalore : 12.97, 77.59, 12
 - To run test cases :
 > sbt test
 
-- To create a eclipse specific project:
+- To create a eclipse specific project
 > sbt eclipse
