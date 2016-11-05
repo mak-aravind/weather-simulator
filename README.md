@@ -33,8 +33,8 @@ Bangalore : 12.97, 77.59, 12
     - Example:
 > sbt "run-main com.mak.weather.station.Simulator 12.97 77.59 12 2016-11-04T14:12:43"
 
-- To run test cases
+- To run test cases:
 > sbt test
 
-- To create a eclipse specific project
+- To create an eclipse specific project
 > sbt eclipse
